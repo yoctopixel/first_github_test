@@ -16,5 +16,5 @@ _It's working?_
 * `List item 4`
 
 - [x] works _(most approximately)_ as expected
-- [ ] delete now this project
+- [ ] delete [now] this project
 
