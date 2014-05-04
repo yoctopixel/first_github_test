@@ -10,12 +10,10 @@ __Yeah, i'm a good novice yet...__
 
 _It's working?_
 
-
 * __List item 1__
 * _List item 2_
-* <u>List item 3</u>
-* <s>List item 4</s>
+* <s>List item 3</s>
+* <u>List item 4</u>
 
-
-https://github.com/yoctopixel/first_github_test
+<p style="background:#fc0;color:#222;">https://github.com/yoctopixel/first_github_test</p>
 
