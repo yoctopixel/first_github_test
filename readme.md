@@ -12,7 +12,7 @@ _It's working?_
 
 * __List item 1__
 * _List item 2_
-* <s>List item 3</s>
+* ~~List item 3~~
 * <u>List item 4</u>
 
 - [x] works (approximately) as expected
