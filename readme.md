@@ -1,13 +1,10 @@
 <!-- ![logo] (https://avatars1.githubusercontent.com/u/7441772?s=460) -->
-
 <img src="https://avatars1.githubusercontent.com/u/7441772?s=460" width="80">
-
 # My first github test
 
 first github test
-first_github_test
 
-Yeah, i'm a novice yet...
+__Yeah, i'm a good novice yet...__
 
 It's working?
 
