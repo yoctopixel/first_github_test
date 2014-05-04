@@ -1,3 +1,4 @@
+[logo] [https://avatars1.githubusercontent.com/u/7441772?s=460]
 # My first github test
 
 first github test
@@ -16,4 +17,3 @@ Lorem ipsum etc.
 
 https://github.com/yoctopixel/first_github_test
 
-https://github.com/yoctopixel/first_github_test.git
