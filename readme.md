@@ -13,7 +13,7 @@ _It's working?_
 * __List item 1__
 * _List item 2_
 * ~~List item 3~~
-* ~List item 4~
+* `List item 4`
 
 - [x] works (approximately) as expected
 - [ ] delete now this project
