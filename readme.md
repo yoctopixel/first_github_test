@@ -15,6 +15,6 @@ _It's working?_
 * ~~List item 3~~
 * `List item 4`
 
-- [x] works (approximately) as expected
+- [x] works (most approximately) as expected
 - [ ] delete now this project
 
