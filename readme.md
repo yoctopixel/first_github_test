@@ -15,5 +15,5 @@ _It's working?_
 * <s>List item 3</s>
 * <u>List item 4</u>
 
-<p style="background:#fc0;color:#222;">https://github.com/yoctopixel/first_github_test</p>
+<p style="background:#fc0;color:#222;padding:0 1em;">github.com/yoctopixel/first_github_test</p>
 
