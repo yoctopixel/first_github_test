@@ -2,7 +2,7 @@
 <img src="https://avatars1.githubusercontent.com/u/7441772?s=460" width="80">
 # My first github test
 
-first github test
+My first Github test: __don'nt take them too seriously__ :)
 
 Lorem ipsum etc.
 
