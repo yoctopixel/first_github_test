@@ -15,6 +15,6 @@ _It's working?_
 * <s>List item 3</s>
 * <u>List item 4</u>
 
-[] works as expected
-[] remove this project
+- [x] works (aprox) as expected
+- [ ] remove this project
 
