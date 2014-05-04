@@ -15,6 +15,6 @@ _It's working?_
 * <s>List item 3</s>
 * <u>List item 4</u>
 
-- [x] works (aprox) as expected
-- [ ] remove this project
+- [x] works (approximately) as expected
+- [ ] delete now this project
 
