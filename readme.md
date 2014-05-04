@@ -4,16 +4,18 @@
 
 first github test
 
-__Yeah, i'm a good novice yet...__
-
-It's working?
-
 Lorem ipsum etc.
 
-* List item 1
-* List item 2
-* List item 3
-* List item 4
+__Yeah, i'm a good novice yet...__
+
+_It's working?_
+
+
+* __List item 1__
+* _List item 2_
+* <u>List item 3</u>
+* <s>List item 4</s>
+
 
 https://github.com/yoctopixel/first_github_test
 
